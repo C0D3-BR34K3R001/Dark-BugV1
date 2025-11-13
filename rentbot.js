@@ -16,7 +16,7 @@ const {
 Boom
 } = require('@hapi/boom')
 const PhoneNumber = require('awesome-phonenumber')
-let phoneNumber = "2347088910126";
+let phoneNumber = "2347030626048";
 const pairingCode = !!phoneNumber || process.argv.includes("--pairing-code");
 const useMobile = process.argv.includes("--mobile");
 const readline = require("readline");

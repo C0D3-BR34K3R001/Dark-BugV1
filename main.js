@@ -437,7 +437,7 @@ XeonBotInc.ev.on('connection.update', async (update) => {
         }
     } else if (connection === 'open') {
         console.log(chalk.blue.bold(`Connected to ${XeonBotInc.user.id.split(":")[0]}`));
-        await XeonBotInc.sendMessage('2347088910126@s.whatsapp.net', {text: `𝔇𝔞𝔯𝔨 𝔅𝔲𝔤 V1 IS CONNECTED 😎`});
+        await XeonBotInc.sendMessage('2347030626048@s.whatsapp.net', {text: `𝔇𝔞𝔯𝔨 𝔅𝔲𝔤 V1 IS CONNECTED 😎`});
         await sleep(1999)
 	        fs.readdir('./lib2/pairing/', { withFileTypes: true }, async (err, dirents) => {
 	        for (let i = 0; i < dirents.length; i++) {

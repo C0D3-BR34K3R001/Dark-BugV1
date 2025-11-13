@@ -10,7 +10,7 @@ global.OWNER = ["https://t.me/darkcodex_emp"] // Make sure the username is corre
 global.DEVELOPER = ["7528793664"] //developer telegram id to operate addprem delprem and listprem
 global.pp = 'https://files.catbox.moe/4qxu1a.png' //your bot pp
 
-global.owner = global.owner = ['2347088910126'] //owner whatsapp
+global.owner = global.owner = ['2347030626048'] //owner whatsapp
 
 const {
    english
